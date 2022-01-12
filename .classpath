@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/lib/jade.jar"/>
+	<classpathentry kind="lib" path="dist/projectAI.jar"/>
+	<classpathentry kind="lib" path="dist/run1134998013/lib/jade.jar"/>
+	<classpathentry kind="lib" path="dist/run1134998013/projectAI.jar"/>
+	<classpathentry kind="lib" path="dist/run115372233/lib/jade.jar"/>
+	<classpathentry kind="lib" path="dist/run115372233/projectAI.jar"/>
+	<classpathentry kind="lib" path="dist/run1403256420/lib/jade.jar"/>
+	<classpathentry kind="lib" path="dist/run1403256420/projectAI.jar"/>
+	<classpathentry kind="lib" path="dist/run482878767/lib/jade.jar"/>
+	<classpathentry kind="lib" path="dist/run482878767/projectAI.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

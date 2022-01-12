@@ -1,0 +1,24 @@
+You can ask him a question in one of the following manners:
+
+1- IS <humanName, catName, dogName, carName, or mobileName> a <human, cat, dog, car, or mobile> ?
+	= It will answer with "yes" or "no".
+
+2- Can <humanName, catName or dogName, carName, or mobileName> play/plays with <humanName, catName dogName, carName, or mobileName> ?
+	= It will answer with "yes" or "no".
+
+OR you can say a sentence like:
+
+3- <humanName, catName or dogName, carName, or mobileName> is a <human, cat, dog, car, or mobile> .
+	= It will answer with "Right Sentence" or "Wrong Sentence"
+
+All answers come with an explanation.
+
+If you don't ask an appropriate question it will answer with "I can't explain this question".
+
+=> Some human  names it knows (ahmed, maged) .
+=> Some cat    names it knows (abby, ellie, nala) .
+=> Some dog    names it knows (max, charlie, lucy) .
+=> Some car    names it knows (bmw, kia, audi) .
+=> Some mobile names it knows (samsung, iphone, huawei) .
+
+Have Fun!
